@@ -15,9 +15,9 @@ kill_timeout = "5s"
   auto_stop_machines = true
   auto_start_machines = true
   min_machines_running = 2
-  grace_period = "239s"
-  timeout = "240s"
-  interval = "15s"
+  grace_period = "119s"
+  timeout = "120s"
+  interval = "5s"
 
   [[services.ports]]
     port = 80
