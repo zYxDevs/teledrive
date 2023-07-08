@@ -44,10 +44,10 @@
       "description": "Username Telegram for admin account.",
       "required": true
     },
-    "USE_PSQL_HEROKU": {
-      "description": "If we are using Heroku PSQL",
+    "DATABASE_URL": {
+      "description": "Database URL",
       "required": true,
-      "value": "1"
+      "value": ""
     }
   }
 }
