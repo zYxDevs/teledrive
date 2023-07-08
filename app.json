@@ -11,10 +11,6 @@
   ],
   "website": "https://teledriveapp.com",
   "repository": "https://github.com/mgilangjanuar/teledrive",
-
-  "addons": [
-    "heroku-postgresql"
-  ],
   "env": {
     "ENV": {
       "description": "Hide the logs for production, default: develop. Read more at: https://teledriveapp.com/docs/Deployment/heroku",
